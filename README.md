@@ -2,7 +2,7 @@
 
 <h3>UTS Mobile Programming</h3>
 
-<p>Name  : Aldo Alfiansyah</p>
+<p>Nama  : Aldo Alfiansyah</p>
 <p>NIM   : 2011011400290</p>
 <p>Kelas : TPLM004</p>
 
